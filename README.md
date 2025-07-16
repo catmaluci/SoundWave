@@ -20,11 +20,11 @@ To achieve this, we're leveraging React.js along with react-router-dom. For styl
 ## **🛠️ Prerequisites**
 Before you dive into this project, make sure you have the following software installed on your system:
 
-Node.js (version 16 or higher) ➡️ Download Here
+* Node.js (version 16 or higher)  
 
-Git ➡️ Download Here
+* Git  
 
-Visual Studio Code (or any other preferred code editor) ➡️ Download Here
+* Visual Studio Code (or any other preferred code editor)  
 
 You'll also need a reliable internet connection to install the necessary project dependencies. 🌐
 
@@ -147,7 +147,8 @@ Optionally, implementing unit tests for robust code quality.
 
 ## **👥 Development Team**
 This project is a collaborative effort by:Paola Morales, Carol Mas, Milena Ocoro, Maria Bongoll, and Mariuxi Olaya
-But updated for improvement after delivered by Mariuxi Olaya
+But updated for improvement after delivered by **Mariuxi Olaya** 
+<a href="https://www.linkedin.com/in/molaya">LinkedIn</a> 
 
 
 Thanks for visiting our repository! We're excited about Sound Wave! 🚀
