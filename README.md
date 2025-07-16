@@ -15,7 +15,7 @@ Welcome to the Sound Wave project repository! This is an interactive and dynamic
 ## **📌 Project Overview**
 This project's core objective is to develop an attractive, informative, and fully functional landing page for Sound Wave's digital marketing campaign. We envision a platform that provides users with an immersive experience, featuring an innovative design and intuitive navigation. This will allow them to effortlessly explore our service's benefits and subscribe with ease. The page will be fully responsive, ensuring an optimal viewing experience across all devices: mobile phones, tablets, and desktops.
 
-To achieve this, we're leveraging React.js along with react-router-dom. For styling, we're exploring various modern technologies such as CSS Modules, Styled Components, or popular UI frameworks like Bootstrap, Tailwind CSS, or MUI.
+To achieve this, we're leveraging React.js along with react-router-dom. For styling, we're exploring various modern technologies such as CSS Modules, Styled Components.
 
 ## **🛠️ Prerequisites**
 Before you dive into this project, make sure you have the following software installed on your system:
